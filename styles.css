@@ -1,0 +1,44 @@
+body {
+    font-family: Helvetica;
+    text-align: center;
+    color: #fff;
+    background-color: #333;
+    padding: 0;
+    margin: 0;
+}
+
+nav{
+    display: flex;
+    justify-content: space-between;
+    padding: 2px;
+    border-bottom: 1px solid #666;
+}
+
+nav ul{
+    display: flex;
+    align-items: center;
+    list-style: none;
+}
+
+ul  li{
+    margin-right: 12px;    
+}
+
+ul  li  a{
+    color: #fff;
+
+}
+
+h1{
+    font-size: 32px;    
+}
+
+img{
+    border: 1px solid #0fa4df;
+}
+
+footer{
+    padding: 200px;
+    border-top: 1px solid#666;
+    margin-top: 20px;
+}
